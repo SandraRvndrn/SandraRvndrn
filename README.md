@@ -1,4 +1,4 @@
-# Hi, I’m @SandraRvndrn💫<br>
+# Hi, I’m Sandra Raveendran💫<br>
  I’m interested in  Design Automation API, C# and Computational Design, Desktop Applications and AR VR using UE<br>🌱 I’m currently learning about JSON format and APS<br>💞️ I’m looking to collaborate on Revit plug-in and web development<br>📫 How to reach me sandrarvndrn@gmail.com / https://www.linkedin.com/in/sandra-raveendran/
 
 ## 🌐 Socials:
